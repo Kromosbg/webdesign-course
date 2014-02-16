@@ -1,0 +1,20 @@
+{
+	color:yellow;
+}
+body{
+	background-color:grey;
+}
+.nav{
+	padding:0px;
+	margin:0px;
+	overflow:auto;
+}
+.nav li{
+	background-color:lightblue;
+	border:2px solid white;
+	padding-left:5px;
+	padding-right:5px;
+	display:block;
+	float:left;
+	cursor:pointer;
+}
