@@ -1,0 +1,40 @@
+<html>
+	<head>
+		<title>Homework 08</title>
+		<link  rel="stylesheet" type="text/css" href="css.css"></link>
+	</head>
+	<body>
+		<header>
+			<p>Tomorrowland</p>
+		</header>
+		<section>
+			<div class"ops">
+				<img src="http://31.media.tumblr.com/12dcc795b7a3ebea4c1f05f1c43440bc/tumblr_mqjhjqoFaJ1r4ft3yo1_500.jpg"  width="200px"/>
+				<img src="http://31.media.tumblr.com/12dcc795b7a3ebea4c1f05f1c43440bc/tumblr_mqjhjqoFaJ1r4ft3yo1_500.jpg"  width="200px"/>
+				<img src="http://31.media.tumblr.com/12dcc795b7a3ebea4c1f05f1c43440bc/tumblr_mqjhjqoFaJ1r4ft3yo1_500.jpg"  width="200px"/>
+				<img src="http://31.media.tumblr.com/12dcc795b7a3ebea4c1f05f1c43440bc/tumblr_mqjhjqoFaJ1r4ft3yo1_500.jpg"  width="200px"/>
+				<div id="clear">
+				</div><img src="http://31.media.tumblr.com/12dcc795b7a3ebea4c1f05f1c43440bc/tumblr_mqjhjqoFaJ1r4ft3yo1_500.jpg"  width="200px"/>
+				<img src="http://31.media.tumblr.com/12dcc795b7a3ebea4c1f05f1c43440bc/tumblr_mqjhjqoFaJ1r4ft3yo1_500.jpg"  width="200px"/>
+				<img src="http://31.media.tumblr.com/12dcc795b7a3ebea4c1f05f1c43440bc/tumblr_mqjhjqoFaJ1r4ft3yo1_500.jpg"  width="200px"/>
+				<img src="http://31.media.tumblr.com/12dcc795b7a3ebea4c1f05f1c43440bc/tumblr_mqjhjqoFaJ1r4ft3yo1_500.jpg"  width="200px"/>
+				<div id="clear"></div>
+				<img src="http://31.media.tumblr.com/12dcc795b7a3ebea4c1f05f1c43440bc/tumblr_mqjhjqoFaJ1r4ft3yo1_500.jpg"  width="200px"/>
+				<img src="http://31.media.tumblr.com/12dcc795b7a3ebea4c1f05f1c43440bc/tumblr_mqjhjqoFaJ1r4ft3yo1_500.jpg"  width="200px"/>
+				<img src="http://31.media.tumblr.com/12dcc795b7a3ebea4c1f05f1c43440bc/tumblr_mqjhjqoFaJ1r4ft3yo1_500.jpg"  width="200px"/>
+				<img src="http://31.media.tumblr.com/12dcc795b7a3ebea4c1f05f1c43440bc/tumblr_mqjhjqoFaJ1r4ft3yo1_500.jpg"  width="200px"/>
+				<div id="clear"></div>
+				<img src="http://31.media.tumblr.com/12dcc795b7a3ebea4c1f05f1c43440bc/tumblr_mqjhjqoFaJ1r4ft3yo1_500.jpg"  width="200px"/>
+				<img src="http://31.media.tumblr.com/12dcc795b7a3ebea4c1f05f1c43440bc/tumblr_mqjhjqoFaJ1r4ft3yo1_500.jpg"  width="200px"/>
+				<img src="http://31.media.tumblr.com/12dcc795b7a3ebea4c1f05f1c43440bc/tumblr_mqjhjqoFaJ1r4ft3yo1_500.jpg"  width="200px"/>
+				<img src="http://31.media.tumblr.com/12dcc795b7a3ebea4c1f05f1c43440bc/tumblr_mqjhjqoFaJ1r4ft3yo1_500.jpg"  width="200px"/>
+				<div id="clear"></div>
+			</div>
+		</section>
+		<footer>
+			<div style="color:#0000FF">
+			<p>Have a nice day</p>
+			</div>
+		</footer>
+	</body>
+</html>
